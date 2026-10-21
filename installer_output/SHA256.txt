@@ -1,0 +1,2 @@
+CraftTune-V1.0.0-Setup.exe
+SHA256: d087c206a13ef972602eae615fb78ad21e3d1d6b136eca99b353728fd2bc23a7

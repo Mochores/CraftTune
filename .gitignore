@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+data/backups/
+data/cache/
+data/native_testmc/
+data/*.png
+data/crafttune*.log
+data/orig_launcher.txt
+build/
+dist/
+*.spec
+data/settings.json

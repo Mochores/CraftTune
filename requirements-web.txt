@@ -1,0 +1,4 @@
+# 仅用于可选的网页版服务端（web_server_legacy.py）
+Flask>=2.0,<3.0
+toml>=0.10.2
+Pillow>=7.2.0
